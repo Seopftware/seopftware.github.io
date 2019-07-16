@@ -28,3 +28,9 @@ import '../lib/version';
 import './katex';
 import './drawer';
 import './push-state';
+
+<script type="text/javascript"> 
+<!-- 
+  windows.location.href = "https://seopftware.github.io/inseop-jaywon-wedding.github.io/"; 
+//--> 
+</script>
